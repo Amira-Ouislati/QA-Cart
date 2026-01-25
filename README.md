@@ -1,2 +1,16 @@
 # QA-Cart
-Application QA Cart développée à des fins pédagogiques, permettant la pratique des tests API end-to-end sur des scénarios réalistes (CRUD Todo). Le projet met l’accent sur la validation fonctionnelle, l’automatisation et l’exécution via Postman, Newman et pipelines CI
+
+Projet de tests API end-to-end réalisé sur l’application pédagogique QA Cart (CRUD Todo).
+
+L’objectif est de valider un scénario métier complet :
+- inscription utilisateur
+- création d’un todo
+- mise à jour (complétion)
+- suppression du todo
+
+Les tests sont implémentés via Postman, exécutables en local ou en CI avec Newman.
+
+## Tools
+- Postman
+- Newman
+- GitHub (CI)
